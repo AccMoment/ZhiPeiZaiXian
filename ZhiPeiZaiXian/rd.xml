@@ -1,8 +1,6 @@
 ﻿<Directives xmlns="http://schemas.microsoft.com/netfx/2013/01/metadata">
     <Application>
-        <Assembly Name="mscorlib"/>
-        <Assembly Name="NAudio.Core" MarshalStructure="Required All">
-            <Type Name="NAudio.Wave.Mp3WaveFormat" MarshalStructure="Required All"/>
-        </Assembly>
+        <Assembly Name="mscorlib" />
+        
     </Application>
 </Directives>
