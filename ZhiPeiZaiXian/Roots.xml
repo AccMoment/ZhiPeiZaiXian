@@ -1,0 +1,6 @@
+﻿<linker>
+    <!-- Can be removed if CompiledBinding and no reflection are used -->
+    <assembly fullname="AccOsuMemory" preserve="All"/>
+    <assembly fullname="AccOsuMemory.Core" preserve="All"/>
+    <assembly fullname="Semi.Avalonia" preserve="All"/>
+</linker>
